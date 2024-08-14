@@ -1,4 +1,4 @@
-- 👋 yp, I’m @itachi2303 btw mah name Aliyan khan hehe :)
+- 👋 yo, I’m @itachi2303 btw mah name Aliyan khan hehe :)
 - 👀 I’m interested in coding, Data Science, and generative AI.
 - 🌱 I’m currently learning cloud-applied generative AI engineering
 - 💞️ I’m looking to collaborate on coding and development in Gen AI. 
